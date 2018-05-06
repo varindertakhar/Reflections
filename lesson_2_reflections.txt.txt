@@ -1,0 +1,13 @@
+When you initialize a repository, you create a collection of commits that may be a collection of files. Initializing a repository allows you to set a side a group of related commits to a bigger project
+
+The staging area allows you to see any changes you make to the working directory before commiting the file officially. This helps with making sure everything you want to change is addressed before it is committed.
+
+The staging area can help you see the changes between the working directory and the file you're currently on. This allows you to make sure a commit is being made per logical change.
+
+Branches help with managing different features of a project or with debugging. This means you can use them to make necessary changes to the program without changing the main path.
+
+Diagrams help visualize the branch structure because they help you see the relation between different commits.
+
+Merging two branches makes all commits in both branches accessible by one. In the diagram, they are represented the way they are because it is similar to two roads coming together.
+
+Git's automatic merging makes it so all the commits are readily accessible. This can also result in merging where you didn't want it.

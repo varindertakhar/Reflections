@@ -1,0 +1,13 @@
+Using diff to find bugs is useful because it allows you to compare the current file with previous versions to spot any changes/mistakes that have been made.
+
+Having easy access to the entire history of a file makes you a more efficient programmer because it allows you to go back and change anything you want without destroying the main program.
+
+Being able to manually commit helps you organize your files in terms of important or logical changes that make sense for you to go back and fix things easily.
+
+Git allows you to commite multiple files at once because it might make more logical sense to you, as the programmer, to group certain files together.
+
+git log allows you to see the commit history of a file and git diff allows you to compare and contrast between two different commnits of a file.
+
+Using version control makes you more confident because you can go back to a previous commit and make any necessary changes without having an effect on other files.
+
+I want to use git for keeping track of big projects that could potentially require me to go back and debug the program or make preferential changes.
